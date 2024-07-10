@@ -1,0 +1,7 @@
+Django
+djangorestframework
+djongo
+pandas
+requests
+python-dotenv
+streamlit
